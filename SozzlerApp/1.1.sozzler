@@ -72,31 +72,31 @@
     "components": [
       {
         "index": 0,
-        "quantity": 1,
+        "quantity": "1",
         "unit": "oz",
         "ingredient": "gin"
       },
       {
         "index": 1,
-        "quantity": 1,
+        "quantity": "1",
         "unit": "oz",
         "ingredient": "Cocchi Americano"
       },
       {
         "index": 2,
-        "quantity": 1,
+        "quantity": "1",
         "unit": "oz",
         "ingredient": "Cointreau"
       },
       {
         "index": 3,
-        "quantity": 1,
+        "quantity": "1",
         "unit": "oz",
         "ingredient": "lemon juice"
       },
       {
         "index": 4,
-        "quantity": 1,
+        "quantity": "1",
         "unit": "dash",
         "ingredient": "absinthe"
       }
