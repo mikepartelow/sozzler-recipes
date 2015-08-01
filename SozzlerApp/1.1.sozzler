@@ -41,5 +41,67 @@
     ],
     "name" : "Mousse Jousse",
     "text" : "Shake with ice, strain into chilled Martini glass. Garnish with grapefruit peel and lemon peel."
+  },
+  {
+    "text": "Shake with ice, strain into chilled cocktail glass.",
+    "name": "Aviation",
+    "components": [
+       {
+          "index": 0,
+          "quantity": "2",
+          "unit": "oz",
+          "ingredient": "gin"
+       },
+       {
+          "index": 1,
+          "quantity": "3/4",
+          "unit": "oz",
+          "ingredient": "Luxardo Liqueur"
+       },
+       {
+          "index": 2,
+          "quantity": "1/2",
+          "unit": "oz",
+          "ingredient": "lemon juice"
+       }
+    ],
+    "rating": 4
+  },
+  {
+    "rating" : 3,
+    "components": [
+      {
+        "index": 0,
+        "quantity": 1,
+        "unit": "oz",
+        "ingredient": "gin"
+      },
+      {
+        "index": 1,
+        "quantity": 1,
+        "unit": "oz",
+        "ingredient": "Cocchi Americano"
+      },
+      {
+        "index": 2,
+        "quantity": 1,
+        "unit": "oz",
+        "ingredient": "Cointreau"
+      },
+      {
+        "index": 3,
+        "quantity": 1,
+        "unit": "oz",
+        "ingredient": "lemon juice"
+      },
+      {
+        "index": 4,
+        "quantity": 1,
+        "unit": "dash",
+        "ingredient": "absinthe"
+      }
+    ],
+    "text" : "Shake with ice, strain into chilled cocktail glass. Garnish with lemon peel.",
+    "name" : "Corpse Reviver"
   }
 ]
