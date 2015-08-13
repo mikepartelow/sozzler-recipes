@@ -10,6 +10,6 @@
       },
    ],
     "name" : "Mousse Jousse",
-    "text" : "Shake with ice, strain into chilled Martini glass. Garnish with grapefruit peel and lemon peel."
+    "text" : "quantity is int not the usual string"
   }
 ]
