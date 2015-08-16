@@ -1,0 +1,15 @@
+[
+  {
+    "rating" : "4",
+    "components" : [
+      {
+        "quantity" : "1",
+        "ingredient" : "Rhum Agricole",
+        "unit" : "oz",
+        "index" : 0
+      },
+   ],
+    "name" : "Mousse Jousse",
+    "text" : "rating is string not the usual int"
+  }
+]

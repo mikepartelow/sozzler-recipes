@@ -1,0 +1,15 @@
+[
+  {
+    "rating" : 4,
+    "components" : [
+      {
+        "quantity" : "1",
+        "ingredient" : 1,
+        "unit" : "oz",
+        "index" : 0
+      },
+   ],
+    "name" : "Mousse Jousse",
+    "text" : "ingredient is int not the usual string"
+  }
+]
